@@ -12,6 +12,6 @@ As of now, I’m working on reviving the older versions of Prodigy and you can c
 
 ![cat](https://raw.githubusercontent.com/entraptadoestechnology/.github/refs/heads/main/profile/img/IMG_1788.webp)
 ## Contact Me!
-You can contact me on: 
+You can contact me: 
 - [my site](https://join.opsonnet.nya.je)
-- [discord](https://discord.com)
+- [discord](https://discord.com/users/1314751216739291156)
