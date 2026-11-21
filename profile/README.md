@@ -11,3 +11,7 @@ I’m Entrapta! I am mostly a web developer as of now.
 As of now, I’m working on reviving the older versions of Prodigy and you can check that out [here](https://prodigy.entraptadoeztech.nya.je)
 
 ![cat](https://raw.githubusercontent.com/entraptadoestechnology/.github/refs/heads/main/profile/img/IMG_1788.webp)
+## Contact Me!
+You can contact me on: 
+- [my site](https://join.opsonnet.nya.je)
+- [discord](https://discord.com)
